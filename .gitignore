@@ -1,0 +1,23 @@
+# 설치된 패키지
+node_modules/
+
+# 빌드 결과
+dist/
+build/
+coverage/
+
+# 환경변수·비밀정보
+.env
+.env.*
+!.env.example
+
+# 로그
+*.log
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 개인 IDE 설정
+.idea/
+.vscode/
